@@ -5,6 +5,8 @@
 #+TESTY: PROMPT='gradebook>'
 #+TESTY: USE_VALGRIND=1
 
+# TESTS FOR THE CODE
+
 * Start, Quit
 Starts the program then issues the exit command which should end the program
 
